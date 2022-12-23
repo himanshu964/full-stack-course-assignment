@@ -1,0 +1,1 @@
+This folder contain assignment of full stack web development using python course.
